@@ -1,0 +1,34 @@
+#list assembled by Flo Dehennin flodehennin@gmail.com
+#NEDERLANDS/DUTCH: deze lijst heeft als bedoeling spelletjes te verzamelen die kinderen in de browser spelen
+#this is an attempt at a pi-hole style blocklist
+#this list has the objective of gathering games that children play in the browser during learning time or from devices dedicated to learning activities
+#the current emphasis is on games that might be played by a dutch speeking child, hence the .nl and .be tlds
+
+roblox.com
+rbxcdn.com
+newgrounds.com
+funnygames.nl
+funnygames.be
+acool.com
+spelletjes.nl
+spelletjes.be
+kizi.com
+elkspel.nl
+elkspel.be
+coolmathgames.com
+poki.com
+spele.be
+spele.nl
+minispelletjes.com
+spelletjes.org
+spel.nl
+zylom.com
+1001spelletjes.be
+1001spelletjes.nl
+jopi.com
+crazygames.com
+speltuin.nl
+spelle.be
+spelle.nl
+y8.com
+zylom.com
