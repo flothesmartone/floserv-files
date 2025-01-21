@@ -2,7 +2,7 @@
 #NEDERLANDS/DUTCH: deze lijst heeft als bedoeling spelletjes te verzamelen die kinderen in de browser spelen
 #this is an attempt at a pi-hole style blocklist
 #this list has the objective of gathering games that children play in the browser during learning time or from devices dedicated to learning activities
-#the current emphasis is on games that might be played by a dutch speeking child, hence the .nl and .be tlds
+#the current emphasis is on games that might be played by a dutch speaking child, hence the .nl and .be tlds
 
 roblox.com
 rbxcdn.com
@@ -32,3 +32,6 @@ spelle.be
 spelle.nl
 y8.com
 zylom.com
+gamesgames.com
+agame.com
+addictinggames.com
